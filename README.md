@@ -1,4 +1,4 @@
-# Laporan Praktikum & Tugas Teknologi Informasi Akuntansi
+# Laporan Praktikum & Tugas Akhir Teknologi Informasi Akuntansi
 **Studi Kasus: Implementasi Accurate 5 Education pada PT. NOMMENSEN**
 
 ---
@@ -9,6 +9,7 @@
 
 **Mata Kuliah:** Teknologi Informasi Akuntansi  
 **Institusi:** Universitas HKBP Nommensen Medan  
+**Dosen Pengampu:** Vebry M. Lumban Gaol,SE,MSi,Ak,CA 
 
 ---
 
